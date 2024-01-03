@@ -1,3 +1,4 @@
+
 <p align="center">
     <img alt="snarkOS" width="1412" src="https://cdn.aleo.org/snarkos/banner.png">
 </p>
@@ -9,7 +10,6 @@
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/follow/AleoHQ?style=social"/></a>
     <a href="https://GitHub.com/AleoHQ/snarkOS"><img src="https://img.shields.io/badge/contributors-59-ee8449"/></a>
 </p>
-
 ## <a name='TableofContents'></a>Table of Contents
 
 * [1. Overview](#1-overview)
